@@ -1,0 +1,1 @@
+INSERT INTO `usuarios` (`id_Usuario`, `Nombre`, `Apellidos`, `Fecha_Nac`, `Telefono`, `URL`, `email`, `Contraseña`, `reg_date`) VALUES ('7', 'admin', 'admin', '2024-03-11', '654345678', 'https://learn.ifp.es/ultra/calendar', 'admin@admin.com', 'admin', current_timestamp())
